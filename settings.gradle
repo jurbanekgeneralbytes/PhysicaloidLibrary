@@ -1,2 +1,1 @@
-include 'PhysicaloidLibrary'
-include 'SampleProjects:PhysicaloidTest'
+include ':library'
